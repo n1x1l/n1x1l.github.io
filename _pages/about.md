@@ -9,10 +9,15 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
 
-Hi! I am a MS by Research student at the [IPCV Lab](https://www.ee.iitm.ac.in/ipcvlab/)[ at IIT Madras](https://www.iitm.ac.in/), where I carry out my research under the supervision of [Prof. AN Rajagopalan](https://www.ee.iitm.ac.in/~raju/). My research interests largely lie in the area of diffusion models and their applications to image restoration tasks and multi-modal generation-based image restoration.
+Hi! I am an MS by Research student at the [IPCV Lab](https://www.ee.iitm.ac.in/ipcvlab/)[ at IIT Madras](https://www.iitm.ac.in/), where I carry out my research under the supervision of [Prof. AN Rajagopalan](https://www.ee.iitm.ac.in/~raju/). My research interests largely lie in the area of diffusion models and their applications to image restoration tasks and multi-modal generation-based image restoration.
 
 Prior to my work at IIT Madras, I completed my undergraduate studies with a B.Tech in Electronics and Communication Engineering (ECE) at [IIIT Kalyani](http://iiitkalyani.ac.in/), where I carried out my undergraduate research under the supervision of [Dr. Pratik Chakraborty](https://iiitkalyani.ac.in/php/facultymainpage/pc.html) in maximisation of secrecy throughput in wireless cognitive radios under the presence of an active eavesdropper.
 
+I am always on the lookout for something interesting out there that adds value, irrespective of the domain of applications. Nature whispers in and manifests itself through the language of mathematics and I endeavor to hone my linguisitic (mathematical) skills on a daily basis to be a better listener to the exemplary sounds of nature. I love playing racket sports of all kinds, especially table tennis and badminton and have also been a great lover of debates and dramatics since a very young age. I still try to keep up with these as and when I can.
+
+Having been a coffee afficionado since my teens, I would love to get to hear from you, or even better, get to connect with you over a cup of coffee. Please feel to reach out to me by any means you deem fit, though email is the best means to reach me instantly. Thanks!
+
+<!-- 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
@@ -57,4 +62,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
