@@ -15,7 +15,7 @@ Prior to my work at IIT Madras, I completed my undergraduate studies with a B.Te
 
 I am always on the lookout for something interesting out there that adds value, irrespective of the domain of applications. Nature whispers in and manifests itself through the language of mathematics and I endeavor to hone my linguisitic (mathematical) skills on a daily basis to be a better listener to the exemplary sounds of nature. I love playing racket sports of all kinds, especially table tennis and badminton and have also been a great lover of debates and dramatics since a very young age. I still try to keep up with these as and when I can.
 
-Having been a coffee afficionado since my teens, I would love to get to hear from you, or even better, get to connect with you over a cup of coffee. Please feel to reach out to me by any means you deem fit, though email is the best means to reach me instantly. Thanks!
+I would love to get to hear from you, or even better, get to connect with you over a cup of coffee, having been a coffee afficionado since my teens. Please feel to reach out to me by any means you deem fit, though email is the best means to reach me instantly. Thanks!
 
 <!-- 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
