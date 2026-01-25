@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistantship"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course, 15 weeks"
+permalink: 
+venue: "Prof. R David Koilpillai, Deptt. of EE, IITM"
+date: 2026-01-25
+location: 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graduate teaching assistant for the course EE5410: Introduction to Digital Signal Processing, taught by Prof. R David Koilpillai during the Jan to May, 2026 semester.
