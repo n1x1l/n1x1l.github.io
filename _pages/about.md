@@ -21,7 +21,7 @@ I would love to get to hear from you, or even better, get to connect with you ov
 
 # Timeline
 ## 2026
-**[Jan 2026]** I will be the TA for a graduate course on [Digital Signal Processing](/teaching/).
+**[Jan 2026]** I will be the TA for a graduate course on [Digital Signal Processing](/teaching).
 
 ## 2025
 **[July 2025]** I joined the IPCV Lab at Deptt. of EE, IIT Madras and begun my graduate studies for an MS(R).
