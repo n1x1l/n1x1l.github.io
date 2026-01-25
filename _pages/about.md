@@ -11,9 +11,9 @@ redirect_from:
 
 Hi! I am an MS by Research student at the [IPCV Lab](https://www.ee.iitm.ac.in/ipcvlab/)[ at IIT Madras](https://www.iitm.ac.in/), where I carry out my research under the supervision of [Prof. AN Rajagopalan](https://www.ee.iitm.ac.in/~raju/). My research interests largely lie in the area of diffusion models and their applications to image restoration tasks.
 
-Prior to my work at IIT Madras, I completed my undergraduate studies with a B.Tech in Electronics and Communication Engineering (ECE) at [IIIT Kalyani](http://iiitkalyani.ac.in/), where I carried out my undergraduate research under the supervision of [Dr. Pratik Chakraborty](https://iiitkalyani.ac.in/php/facultymainpage/pc.html) in maximisation of secrecy throughput in wireless cognitive radios under the presence of an active eavesdropper.
+Prior to my work at IIT Madras, I completed my undergraduate studies with a B.Tech in Electronics and Communication Engineering (ECE) at [IIIT Kalyani](http://iiitkalyani.ac.in/), where I conducted my undergraduate research under the supervision of [Dr. Pratik Chakraborty](https://iiitkalyani.ac.in/php/facultymainpage/pc.html) in maximisation of secrecy throughput in wireless cognitive radios under the presence of an active eavesdropper.
 
-I am always on the lookout for something interesting out there that adds value, irrespective of the domain of applications. Nature whispers in and manifests itself through the language of mathematics and I endeavor to hone my linguisitic (mathematical) skills on a daily basis to be a better listener to the exemplary sounds of nature. 
+I am always on the lookout for something interesting out there that adds value, irrespective of the domain of applications. Nature whispers in and manifests itself through the language of mathematics and I endeavor to hone my linguisitic (mathematical) skills on a daily basis to be a better listener to the exemplary sounds of nature.
 
 I love playing racket sports of all kinds, especially table tennis and badminton and have also been a great lover of debates and dramatics since a very young age. I still try to keep up with these as and when I can.
 
