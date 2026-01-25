@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 My complete, unabridged CV can be found [here](https://n1x1l.github.io/files/nikhil_laxminarayana.pdf).
 
-**Last updated:** 25-01-2026, 19:45 IST by Nikhil
+**Last updated:** 31-03-2025, 19:45 IST by Nikhil
 
 <!-- Education
 ======
