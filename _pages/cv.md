@@ -8,38 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+My complete, unabridged CV can be found [here](https://n1x1l.github.io/files/nikhil_laxminarayana.pdf). 
+ 
+<!-- Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.(R), Electrical Engineering, IIT Madras, 2025-
+* B.Tech, ECE, IIIT Kalyani, 2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2024: I interned under [Prof. Shankar Prakriya](https://ee.iitd.ac.in/faculty-profile/14) at IIT Delhi. Worked on ambient backscatter devices and secrecy performance improvements under CSI-dependent co-phasing.
 
 Publications
 ======
@@ -61,4 +39,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
