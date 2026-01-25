@@ -19,6 +19,23 @@ I love playing racket sports of all kinds, especially table tennis and badminton
 
 I would love to get to hear from you, or even better, get to connect with you over a cup of coffee, having been a coffee afficionado since my teens. Please feel to reach out to me by any means you deem fit, though email is the best means to reach me instantly. Thanks!
 
+# Timeline
+
+## 2026
+---
+[Jan 2026] I will be the TA for a graduate course on [Digital Signal Processing](/teaching/).
+
+## 2025
+---
+[July 2025] I joined the IPCV Lab at Deptt. of EE, IIT Madras and begun my graduate studies for an MS(R).
+
+[May 2025] I completed my B.Tech in ECE at IIIT Kalyani, with a department rank 2. Submitted my thesis on secrecy throughput improvements under CSI-availability in wireless cooperative cognitive radios.
+
+## 2024
+---
+[July 2024] I was a Summer Research Intern under Prof. Shankar Prakriya at IIT Delhi.
+
+
 <!-- 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
