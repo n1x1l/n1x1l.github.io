@@ -128,8 +128,7 @@
       {% endif %}      
       {% if author.lastfm %}
         <li><a href="https://last.fm/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm icon-pad-right" aria-hidden="true"></i>Last.fm</a></li>
-      {% endif %}      
-      {% endif %}      
+      {% endif %}         
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>
       {% endif %}
@@ -137,7 +136,7 @@
         <li><a href="{{ author.medium }}"><i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium</a></li>
       {% endif %}
       {% if author.substack %}
-        <li><a href="https://www.substack.com/{{ author.substack }}"><i class="fab fa-solid fa-bookmark icon-pad-right" style="color: #FF6719" aria-hidden="true"></i>Substack</a></li>
+        <li><a href="https://www.substack.com/@{{ author.substack }}"><i class="fab fa-solid fa-bookmark icon-pad-right" style="color: #FF6719" aria-hidden="true"></i>Substack</a></li>
       {% endif %}      
       {% if author.pinterest %}
         <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest icon-pad-right" aria-hidden="true"></i>Pinterest</a></li>
