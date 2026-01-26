@@ -55,6 +55,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         : "n1x"
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
@@ -65,7 +66,6 @@ author:
   keybase          : # Username
   instagram        : "__n1ckhill__"
   lastfm           : # Username
-  linkedin         : "/in/n1x"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
