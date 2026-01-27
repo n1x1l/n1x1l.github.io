@@ -25,7 +25,7 @@ I would love to get to hear from you, or even better, get to connect with you ov
 
 ## 2025
 **[Jul 2025]:** I have begun my M.S(R) in EE and joined the IPCV Lab at Deptt. of EE, IIT Madras.
-**[May 2025]:** I completed my B.Tech in ECE at IIIT Kalyani, with a department rank 2.
+**[May 2025]:** I completed my B.Tech in ECE at IIIT Kalyani, with second rank in the department.
 
 ## 2024
 **[Jul 2024]:** I was a Summer Research Intern under Prof. Shankar Prakriya at IIT Delhi.
