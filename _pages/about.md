@@ -17,7 +17,7 @@ I am always on the lookout for something interesting out there that adds value, 
 
 I love playing racket sports of all kinds, especially table tennis and badminton and have also been a great lover of debates and dramatics since a very young age. I still try to keep up with these as and when I can.
 
-I would love to get to hear from you, or even better, get to connect with you over a cup of coffee, having been a coffee afficionado since my teens. Please feel to reach out to me by any means you deem fit, though email is the best means to reach me instantly. Thanks!
+I would love to get to hear from you, or even better, get to connect with you over a cup of coffee, having been a coffee afficionado since my teens. Please feel to reach out to me by any means you deem fit, though email is the best way to reach me instantly. Thanks!
 
 # Timeline
 ## 2026
