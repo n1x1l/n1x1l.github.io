@@ -1,8 +1,9 @@
 name: "blog"
-title: "n1x1l | Blog"
+title: "Blog | Nikhil Laxminarayana"
 description: |
-  n1x1l | Blog
-output_dir: "_site"
+  Nikhil Laxminarayana's blog.
+output_dir: "site"
+base_url: "https://n1x1l.github.io/blog/site"
 navbar:
   right:
     - text: "Home"
