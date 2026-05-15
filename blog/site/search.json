@@ -5,15 +5,15 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2026-05-15T14:28:56+05:30"
+      "contents": "\r\nWelcome\r\nThis blog serves as a public space for me to document my technical findings and learnings, in an acessible fashion. I hope to be writing on multiple topics, and almost all might turn out to be remotely related to Diffusion Models and Gaussian Splatting, two of the cornerstones of Modern Computer Vision research. Feel free to check this space out for the pieces I write, and I would be glad to get to hear from you.\r\nWith this blog, I hope to share my learnings and key findings with you all and also look forward to learning a lot from you all in the process. Documenting things as I go on has always been a key thing to me, just not out in the public as of yet, which I am hoping to change with this blog. I hope to be regular and update this blog atleast once a month on the 20th day of the month. Feel free to get in touch with me. Cheers!\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-05-15T14:46:04+05:30"
     },
     {
       "path": "index.html",
       "title": "blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2026-05-15T14:28:57+05:30"
+      "last_modified": "2026-05-15T14:46:04+05:30"
     }
   ],
   "collections": ["posts/posts.json"]
