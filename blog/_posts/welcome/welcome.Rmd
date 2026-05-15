@@ -24,7 +24,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
 ## Welcome
 
 This blog serves as a public space for me to document my technical findings and learnings, in an acessible fashion. I hope to be writing on multiple topics, and almost all might turn out to be remotely related to Diffusion Models and Gaussian Splatting, two of the cornerstones of Modern Computer Vision research. Feel free to check this space out for the pieces I write, and I would be glad to get to hear from you. 
