@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2026-05-15T11:13:03+05:30"
+      "last_modified": "2026-05-15T11:18:41+05:30"
     },
     {
       "path": "index.html",
-      "title": "n1x1l | Blog",
+      "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2026-05-15T11:13:05+05:30"
+      "last_modified": "2026-05-15T11:18:42+05:30"
     }
   ],
   "collections": ["posts/posts.json"]
