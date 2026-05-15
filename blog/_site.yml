@@ -1,5 +1,5 @@
-name: "blog"
-title: "Nikhil Laxminarayana"
+name: "Nikhil Laxminarayana"
+title: "blog"
 description: |
   Nikhil Laxminarayana's blog.
 output_dir: "site"
@@ -10,6 +10,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "←- Back to HomePage"
+    - text: "← Back to HomePage"
       href: "https://n1x1l.github.io/"
 output: distill::distill_article
