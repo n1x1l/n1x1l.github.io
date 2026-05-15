@@ -1,5 +1,5 @@
 ---
-title: "blog" 
+title: "home" 
 site: distill::distill_website
 listing: posts
 ---
