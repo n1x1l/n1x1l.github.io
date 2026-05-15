@@ -10,4 +10,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "←- Back to HomePage"
+      href: "https://n1x1l.github.io/"
 output: distill::distill_article
