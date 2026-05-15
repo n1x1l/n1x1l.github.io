@@ -167,6 +167,7 @@ include:
   - _pages
   - files
 exclude:
+  - "**/*.Rmd"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
